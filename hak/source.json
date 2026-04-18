@@ -5,6 +5,7 @@
     {
       "name": "hak ios",
       "bundleIdentifier": "dev.myyc.hak.ios",
+      "marketplaceID": "6762442870",
       "developerName": "myyc",
       "iconURL": "https://nicolasvo-pro.github.io/hak/icon.png",
       "localizedDescription": "Offline flashcards for Japanese, Korean, and Chinese (Simplified and Traditional). JLPT N5/N4, Korean A1, HSK 3.0 Level 1, TOCFL Novice. Handwriting practice, TTS, backup/restore. No account, no tracking.",
