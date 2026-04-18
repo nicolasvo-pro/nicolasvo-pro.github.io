@@ -1,0 +1,30 @@
+{
+  "name": "hak by myyc",
+  "identifier": "dev.myyc.hak.ios-source",
+  "apps": [
+    {
+      "name": "hak ios",
+      "bundleIdentifier": "dev.myyc.hak.ios",
+      "developerName": "myyc",
+      "iconURL": "https://nicolasvo-pro.github.io/hak/icon.png",
+      "localizedDescription": "Offline flashcards for Japanese, Korean, and Chinese (Simplified and Traditional). JLPT N5/N4, Korean A1, HSK 3.0 Level 1, TOCFL Novice. Handwriting practice, TTS, backup/restore. No account, no tracking.",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "3",
+          "date": "2026-04-17",
+          "downloadURL": "https://nicolasvo-pro.github.io/hak/adp/v1.0.0-build3/manifest.json",
+          "size": 173294616,
+          "minOSVersion": "17.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used only if you choose to import or export backup files from your photo library."
+        }
+      }
+    }
+  ],
+  "news": []
+}
